@@ -26,4 +26,4 @@ Where I represents current in amperes, E represents voltage, and R represents re
 - Introduces basic electrical circuit terminology, and the evolution of communication across long distances. 
 
 ### Chapter 6: Logic with Switches
-- 
+- Explaining logic with boolean algebra
