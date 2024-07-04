@@ -27,3 +27,18 @@ Where I represents current in amperes, E represents voltage, and R represents re
 
 ### Chapter 6: Logic with Switches
 - Explaining logic with boolean algebra
+- Boolean operations union and intersection can be represented in electrical circuitry from switches in parallel or series.
+
+### Chapter 7: Telegraphs and Relays
+- To create a telegraph to facilitate long distance communication, and to mitigate the limitation of long distance-wiring, relays were invented. 
+- Relays use the input signal to power a coil of wire that causes the iron bar to beocme an electromagnet, pulling down a metal plate, which resends the signal in real-time ti the output wire. 
+- They essentially re-send weak signals as strong signals, resetting its voltage to mititgate long-distance issues with wiring.
+
+### Chapter 8: Relays and Gates
+- Two relays can form an AND and OR logic gates.
+- A single relay is called a buffer, strengthening signals that have branched off, while an inverter outputs the opposite of the input
+- A combination of the AND, OR, and inverter (NOT), creates the NAND and NOR gates.
+- Boolean expressions can always be expressed using logic gates, whether simplified or not.
+
+### Chapter 9: Our Ten Digits
+- 
