@@ -41,4 +41,22 @@ Where I represents current in amperes, E represents voltage, and R represents re
 - Boolean expressions can always be expressed using logic gates, whether simplified or not.
 
 ### Chapter 9: Our Ten Digits
+- Dives into the history of number systems.
+- Our base 10 number system supposedly originating from the number of fingers we have.
+- This arbitrary allocation may not fit the use for other beings where they dont have 10 fingers or different needs.
+
+### Chapter 10: Alternative 10's
+- Worked the way down to the simple binary system, looked at how batches of three bits could be used to convert the decimal number into octal
+- AND gates can be used to create a device that encodes the decimal based on input switches simulating binary positioning
+- OR gates can be used to create its decoder counterpart
+
+### Chapter 11: Bit by Bit by Bit
+- Looks at real world uses of binary representation, such as the perseverence Mars rover's parachute, barcodes, and QR codes.
+- Barcodes and QR codes have their multiple of their own agreed upon standards, as well as many aspects that enforce error checking and prevents tampering.
+
+### Chapter 12: Bytes and Hexadecimal
+- Bytes are 8 bits, and is always the multiple for computer word sizes, but reading the binary of multiple bytes is difficult and long, thus introducing the hexademical number system, which each bit can represent 4 bits in binary, this each byte being represented by two hexadecimal symbols. The octal number system does not work as not all bytes and combinations of bytes are divisibale by 3. 
+- Hexadecimal is commonly used to represent RGB colour prefixed by a # symbol.
+
+### Chapter 13: From ASCII to Unicode
 - 
